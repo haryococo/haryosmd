@@ -1,7 +1,7 @@
-- 🧑🏻 Hi, I’m @haryosmd, Call me "Yo" Easelly 
+- 🧑🏻 Hi, I’m @haryococo, Call me "Yo" Easelly 
 - 👀 I’m interested in Programming & Design
-- 📚 I’m currently learning Data Science and UIX Design
-- ⚡ I’m looking to collaborate on on Data analyzing or UIX project
+- 📚 I’m currently learning Fullstack JavaScript
+- ⚡ I’m looking to collaborate on UIX project or Web Development
 - 📫 How to reach me ? Let's catch on haryosmd@gmail.com / linked.in/Slamet_Haryo_S
 
 <!---
